@@ -1,2 +1,2 @@
 # github
-my repository management
+my repositories management
