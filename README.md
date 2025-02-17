@@ -7,7 +7,7 @@ my repositories management
 
 categories: languages (c#, c++, python, node.js, java), IoT, Lifes, private, public,  Forks, personals (life), books,  Social media: Youtube, Linkedin; Blogs; 
 
-
+everything by a repository in GitHub: an idea (one paragraph with a tile), references, cases, requirements, design descriptions, implementations;  
 
 
 
